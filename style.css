@@ -1,0 +1,13 @@
+
+.board  {
+    margin: auto;
+    margin-top: 10vh;
+    box-shadow: 0px 0px 50px rgb(32, 188, 232) ;
+    width: 800px;
+    height: 800px;
+    display: grid;
+    grid-template-columns: repeat(20, 1fr);
+}
+.board_element{
+    background: rgb(32, 188, 232);
+}
