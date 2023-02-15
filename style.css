@@ -11,3 +11,8 @@
 .board_element{
     background: rgb(32, 188, 232);
 }
+.snake {
+    border-radius: 4px;
+    background: rgb(238, 13, 13);
+    box-shadow: 0px 0px 10px rgb(206, 3, 3) ;
+}
